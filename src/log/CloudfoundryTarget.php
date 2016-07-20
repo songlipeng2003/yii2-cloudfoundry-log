@@ -1,5 +1,5 @@
 <?php
-namespace songlipeng2003\yii2_cloud_foundry\log;
+namespace songlipeng2003\yii2_cloudfoundry\log;
 
 use yii\log\Target;
 
