@@ -1,0 +1,30 @@
+{
+    "name": "songlipeng2003/yii2-cloudfoundry-log",
+    "description": "Yii2 Cloudfoundry Log Target",
+    "keywords": ["yii2", "cloudfoundry", "log"],
+    "homepage": "https://github.com/songlipeng2003/yii2-cloudfoundry-log",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Thinking Song",
+            "email": "songlipeng2003@gmail.com",
+            "homepage": "http://wmstars.com",
+            "role": "Founder and project lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/songlipeng2003/yii2-cloudfoundry-log/issues?state=open",
+        "wiki": "https://github.com/songlipeng2003/yii2-cloudfoundry-log/wiki/",
+        "source": "https://github.com/songlipeng2003/yii2-cloudfoundry-log"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": ">=2.0.5"
+    },
+    "autoload": {
+        "psr-4": {"songlipeng2003\yii2_cloud_foundry\\": "src/"}
+    }
+}
